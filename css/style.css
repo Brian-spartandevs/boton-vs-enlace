@@ -1,0 +1,21 @@
+.anchor,
+.button{
+    text-decoration:none;
+    color:#333333;
+    cursor: pointer;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#41ad6e;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:35px;
+    }
+
+/* .anchor,
+.button a{
+    text-decoration:none;
+    color:#333333;
+} */
